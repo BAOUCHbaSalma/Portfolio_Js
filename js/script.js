@@ -79,4 +79,5 @@ function asideSectionTogglerBtn(){
     for (let i = 0; i < totalSection; i++) {
         allSection[i].classList.toggle("open");
     }
+    
 }
